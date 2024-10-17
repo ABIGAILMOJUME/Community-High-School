@@ -63,6 +63,7 @@ margin: 0;
 }
 .section-1{
    background-color: #d9d9d9;
+   padding-top: 20px;
 }
 .section-1-h2{
    margin: 0;
@@ -284,10 +285,10 @@ font-weight: 800;
 
 @media screen and (max-width:450px){
  .section-1-h1{
-   font-size: 25px;
+   font-size: 15px;
  }
  .section-1-h2{
-   font-size: 25px;
+   font-size: 15px;
  }
  .hero-p{
    font-size: 7px;
